@@ -1,0 +1,11 @@
+{
+  "server": "https://2s-sales-demo.odoo.com",
+  "checked_at_utc": "2026-10-15T08:40:46.398865+00:00",
+  "authentication": "passed",
+  "customers": "passed",
+  "subscription_access": "available for tested authentication and res.partner read",
+  "version": "20.0+e",
+  "database": "2s-sales-demo",
+  "database_source": "POST /web/database/list response (not inferred from hostname)",
+  "customer_sample_count": 1
+}

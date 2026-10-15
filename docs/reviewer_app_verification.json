@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-15T12:37:26.867649Z",
+  "reviewer_login": "reviewer@2s-sales-demo.example",
+  "app_xmlrpc_login": "passed",
+  "internal_non_admin": "passed",
+  "customer_search_details": "passed",
+  "sales_list_and_details": "passed",
+  "offline_edit_sqlite_restart": "passed",
+  "verified_phone_write_and_sync": "passed",
+  "demo_phone_restored": "passed",
+  "main_quotation_remains_draft": true
+}

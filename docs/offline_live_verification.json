@@ -1,0 +1,11 @@
+{
+  "server": "https://2s-sales-demo.odoo.com",
+  "database": "2s-sales-demo",
+  "checked_at_utc": "2026-10-15T09:20:32.897135Z",
+  "status": "passed",
+  "cache": "passed",
+  "offline_edit_and_durable_queue": "passed",
+  "sqlite_restart": "passed",
+  "real_odoo_write_and_readback": "passed",
+  "synthetic_cleanup": "passed"
+}

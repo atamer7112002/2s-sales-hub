@@ -1,0 +1,12 @@
+{
+  "authentication": "passed",
+  "internal_user": true,
+  "order_retrieval": "passed",
+  "order_sample_count": 0,
+  "phone_write_readback": "passed",
+  "order_lines": "passed",
+  "confirmation_readback": "passed",
+  "order_cleanup": "passed",
+  "product_cleanup": "passed",
+  "partner_cleanup": "passed"
+}
